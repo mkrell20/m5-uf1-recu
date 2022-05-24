@@ -1,0 +1,24 @@
+PREGUNTAS:
+
+1.- Hi és el fitxer nivell3recu.txt a la nivell3recu?
+
+    - NO! (abans habia creat el fixter txt en el branch nivell3 I per aixo habia dit que si!!!!)
+
+2.- És l'àrea de workspace comuna a les diferents branques?
+
+    - Como esto lo estamos haciendo un poco diferente 
+    al examen de Oriol, en este caso si. Pero si fuera todo separado como 
+    estaba planeado en el examen entonces no. 
+    !!
+     
+-------------------------------------------
+
+Más PREGUNTAS:
+
+1.- hi és el fitxer nivell3recu.txt a la nivell3recu?
+
+    - Ahora si :)
+
+2.- És l'àrea de índex comuna a les diferents branques?
+
+    - Yes
