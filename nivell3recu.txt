@@ -22,3 +22,16 @@ Más PREGUNTAS:
 2.- És l'àrea de índex comuna a les diferents branques?
 
     - Yes
+   
+--------------------------------------------------------
+
+AUN MÁS PREGUNTAS:
+
+1.- hi és el fitxer nivell3recu.txt a la nivell3recu?
+
+    - si
+
+2.- És l'àrea de repo local comuna a les diferents branques?
+
+    - Si se hace cambios en una branch la ortra no los tendra
+       
