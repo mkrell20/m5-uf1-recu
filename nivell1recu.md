@@ -16,8 +16,8 @@ _God_ said once lol
 
 ### JavaScript
 
-`
+```
 function myFunction() {
   document.getElementById("demo").innerHTML = "Paragraph changed.";
 }
-`
+```
