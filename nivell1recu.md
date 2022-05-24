@@ -12,7 +12,7 @@ It's literally some cheese on a mac11 ![E](mac&cheese.jpg)
 
 >"Who would do such a thing"
 
-_God_ sai once
+_God_ sai once lol
 
 ### JavaScript
 
