@@ -12,12 +12,12 @@ It's literally some cheese on a mac11 ![E](mac&cheese.jpg)
 
 >"Who would do such a thing"
 
-_God_ sai once lol
+_God_ said once lol
 
 ### JavaScript
 
-'
+`
 function myFunction() {
   document.getElementById("demo").innerHTML = "Paragraph changed.";
 }
-'
+`
